@@ -41,3 +41,11 @@ example
 # generated native folders
 /ios
 /android
+
+venv/
+node_modules/
+.expo/
+dist/
+__pycache__/
+*.sqlite3
+.env
